@@ -49,9 +49,11 @@ body{
 
 .content{
     width:90%;
-    margin:auto; height: 420px;
+    margin:auto;
+    height: 420px;
     padding:0.1px;
-    background:#fff; color:#333;
+    background:#fff;
+    color:#333;
 }
 
 .border{
@@ -89,3 +91,5 @@ body{
     line-height:40px;
     background:#417aa8;
     color:#fff;
+    margin-bottom; 1pc:
+}
